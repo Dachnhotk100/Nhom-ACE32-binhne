@@ -1,0 +1,30 @@
+GIỚI THIỆU ĐỀ TÀI
+Trình bày bối cảnh, lý do chọn đề tài và ý nghĩa thực tiễn của việc phân tích dữ liệu.(nhằm cũng cố trau dồi kiến thức đã học )
+2. MỤC TIÊU VÀ CÂU HỎI PHÂN TÍCH
+2.1. Mục tiêu nghiên cứu
+- Thu thập dữ liệu từ nguồn xác định
+- Làm sạch và chuẩn hóa dữ liệu
+- Phân tích dữ liệu và trực quan hóa
+- Rút ra các insight chính
+2.2. Câu hỏi phân tích
+•  Câu hỏi 1: Đặc điểm tổng quan của dữ liệu Noctural là gì?
+•  Câu hỏi 2: Yếu tố nào ảnh hưởng nhiều nhất đến mức độ quan tâm/hiệu quả của sản phẩm Noctural?
+•  Câu hỏi 3: Những insight chính rút ra từ dữ liệu Noctural là gì?
+3. NGUỒN DỮ LIỆU VÀ THU THẬP
+Mô tả nguồn dữ liệu, thời gian thu thập, số lượng bản ghi và phương pháp cào dữ liệu.
+4. KIỂM TRA VÀ TIỀN XỬ LÝ DỮ LIỆU
+Trình bày các bước kiểm tra dữ liệu thô và làm sạch dữ liệu (missing values, trùng lặp, chuẩn hóa).
+5. PHÂN TÍCH DỮ LIỆU VÀ BIỂU ĐỒ
+5.1. Thống kê mô tả
+Mô tả các chỉ số thống kê cơ bản của dữ liệu.
+5.2. Trực quan hóa dữ liệu
+Biểu đồ 1: ... (nhận xét)
+Biểu đồ 2: ... (nhận xét)
+Biểu đồ 3: ... (nhận xét)
+6. INSIGHT VÀ NHẬN XÉT
+Tổng hợp các insight quan trọng rút ra từ phân tích dữ liệu.
+7. KẾT LUẬN
+Tóm tắt kết quả đạt được và ý nghĩa của báo cáo.
+8. HẠN CHẾ VÀ HƯỚNG PHÁT TRIỂN
+Nêu hạn chế của dữ liệu và đề xuất hướng phát triển trong tương lai.
+
